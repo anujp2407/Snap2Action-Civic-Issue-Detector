@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+.env
+.vscode/
+.idea/
+
+*.db
+*.sqlite
+*.sqlite3
+
+weights/
+y8best.pt
+
+data/uploads/
+data/reports/
+
+ChatGPT Image Sep 16, 2026, 12_29_26 PM.png
+Dual_Engine_Pothole_Detection_Project_Report.docx
